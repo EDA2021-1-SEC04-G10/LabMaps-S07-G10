@@ -1,4 +1,4 @@
-# Laboratorio No. 6 :rocket:
+# Laboratorio No. 6 :world_map:
 
 ## Autores :writing_hand:
 * Hernán Buitrago 
